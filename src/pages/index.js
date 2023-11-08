@@ -54,7 +54,7 @@ const Index = (props) => {
       );
     });
   };
-
+//if notes arent loading users will see loading
   const loading = () => {
     return <h1>Loading...</h1>;
   };
