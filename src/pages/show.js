@@ -31,7 +31,7 @@ function Show(props) {
     props.deleteNotes(params.id);
     navigate('/notes'); // Redirect to the home page after deletion
   };
-
+// notes view and the data we fetch from the backend w that data.
   return (
     <div className="note">
       <h1>{props.note.title}</h1>
