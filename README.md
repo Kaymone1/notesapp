@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+# Notes App
+Overview
+The Notes App is a web application that allows users to create, update, and delete notes. It features a user-friendly interface built with React on the frontend, powered by an Express backend API I created. The data is stored efficiently in MongoDB.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Live Site Links
+Link to Deployed Application (Backend): https://thawing-brushlands-81862-dd69e79146b3.herokuapp.com/notes
+
+Link to Deployed Application (Frontend): https://melodic-salamander-9cfa34.netlify.app/notes
+
+# Technologies Used
+Approach
+Frontend: React
+
+The user interface is designed to be intuitive, allowing users to manage their notes seamlessly.
+State management in React is utilized for dynamic updates and smooth interactions.
+
+Backend: Express & MongoDB
+The Express backend provides a RESTful API for handling CRUD operations.
+MongoDB is employed for efficient data storage and retrieval.
+
+# Installation
+Clone the repository: git clone [https://github.com/kaymone1/notesapp.git](https://github.com/Kaymone1/notesapp.git)
+Navigate to the project folder: cd notes-app
+Install dependencies:
+Frontend: npm install
+Backend:  npm install
+
+Start the application:
+Frontend: npm start
+Backend: npm start
 
 ## Available Scripts
 
