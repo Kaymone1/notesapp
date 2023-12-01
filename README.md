@@ -4,6 +4,7 @@ The Notes App is a web application that allows users to create, update, and dele
 
 # Live Site Links
 Link to Deployed Application (Backend): https://thawing-brushlands-81862-dd69e79146b3.herokuapp.com/notes
+GitHub link to backend: https://github.com/Kaymone1/Project3-backend.git
 
 Link to Deployed Application (Frontend): https://melodic-salamander-9cfa34.netlify.app/notes
 
